@@ -1,0 +1,6 @@
+4 state:
+00:main menu
+01:balance
+10:withdraw
+11:transfer
+
